@@ -34,10 +34,10 @@
 - **[np-skillbar](https://drive.google.com/drive/folders/17xznaEcn5rmP0aOKL5XIj6SIfqQVB8iH?usp=sharing)**
 
 # Setup
-|  1st change the framework;
-2nd Add the images in your inventory script;
-3rd Add the items down bellow;
-4th Write ```ensure AcidFW-vehicles```  |
+- **1st change the framework**
+- 2nd Add the images in your inventory script;
+- 3rd Add the items down bellow;
+- 4th Write ```ensure AcidFW-vehicles```  |
 
 # Images
 ![tire](https://i.imgur.com/pgVG7J2.png)
