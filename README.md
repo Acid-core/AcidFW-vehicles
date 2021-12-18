@@ -35,8 +35,8 @@
 
 # Setup
 - 1st change the framework
-- 2nd Add the images in your inventory script;
-- 3rd Add the items down bellow;
+- 2nd Add the images in your inventory script
+- 3rd Add the items down bellow
 - 4th Write **```ensure AcidFW-vehicles```**
 
 # Images
